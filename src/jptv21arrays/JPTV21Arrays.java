@@ -56,10 +56,6 @@ public class JPTV21Arrays {
             }
             System.out.println();
         }
-        System.out.println();
-        System.out.println("sum = "+ sum1);
-        System.out.println("min = "+ min1);
-        System.out.println("max = "+ max1);
     }
 }
 
